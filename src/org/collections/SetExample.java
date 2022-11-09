@@ -81,7 +81,7 @@ public class SetExample {
 		
 		Set<Employee> se = new HashSet<Employee>();
 		
-		for(int i =0;i<2;i++)
+		for(int i =0;i<10;i++)
 		{
 			System.out.println("Enter the employee name");
 			String name = sc.nextLine();
